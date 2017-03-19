@@ -2,6 +2,8 @@
 
 queries the omdb api for movie details
 
+hosted at https://morrme.github.io/movieinfo/
+
 Search Page:
 
 
